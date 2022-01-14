@@ -39,9 +39,12 @@ GET /{index}/{type}/_mget{
 operator is 
 ```bash
 ```
-##### Therms
+##### Therm
 ```bash
 ```
-##### Exists/Missing
+##### Exist/missing
+```bash
+```
+### Pagination
 ```bash
 ```
